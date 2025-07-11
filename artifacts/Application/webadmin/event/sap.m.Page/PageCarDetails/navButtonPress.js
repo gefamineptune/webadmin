@@ -1,0 +1,2 @@
+apiRestAPIGet();
+oApp.backToPage(PageCar);

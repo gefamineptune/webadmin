@@ -1,0 +1,9 @@
+// const username = InputUsername.getValue();
+// const password = InputPassword.getValue();
+
+// console.log("username:" + username);
+// console.log("password:" + password);
+
+// App.to(PageDashboard)
+
+submitLogn();

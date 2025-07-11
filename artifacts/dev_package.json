@@ -9,7 +9,17 @@
 	"description": null,
 	"ver": "25.07.11.1342",
 	"enableCICD": true,
-	"apps": [],
+	"apps": [
+		{
+			"id": "36958fac-e828-48a3-ba3d-cadaf733b3f2",
+			"application": "webadmin",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "8b26e8c1-4429-4e32-9e79-8c300480a15d"
+			}
+		}
+	],
 	"api": [
 		{
 			"id": "ce614f31-9685-4c0b-bb10-012536069467",
