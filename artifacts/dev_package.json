@@ -7,10 +7,17 @@
 	},
 	"name": "webadmin_fms",
 	"description": null,
-	"ver": "25.07.11.0822",
+	"ver": "25.07.11.1342",
 	"enableCICD": true,
 	"apps": [],
-	"api": [],
+	"api": [
+		{
+			"id": "ce614f31-9685-4c0b-bb10-012536069467",
+			"name": "dailyMaintenance",
+			"description": null,
+			"apiGroup": null
+		}
+	],
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [],
